@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "Houston, TX, USA"
 title                    : "Haiyun Guo's Homepage"
-title_separator          : #"-"
+title_separator          : "-"
 name                     : "Haiyun Guo"
-description              :# &description "personal description"
+description              :"personal description"
 url                      : "https://haiyunguo7.github.io/.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
